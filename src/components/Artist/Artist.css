@@ -1,0 +1,21 @@
+.shape img{
+    width: 100%;
+}
+
+.shape{
+    border: 1px solid black;
+    width: 500px;
+    position: relative;
+    margin-left: 250px;
+    text-align: center;
+    background-color: rgb(228, 228, 216);
+    margin-bottom: 10px;
+    box-shadow: 4px 2px 8px black;
+    border-radius: 10px;
+}
+
+.shape button{
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
